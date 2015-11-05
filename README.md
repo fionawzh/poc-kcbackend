@@ -1,2 +1,2 @@
 # poc-kcbackend
-backend of kc on the poc stage
+backend of kc and management console on the poc stage
